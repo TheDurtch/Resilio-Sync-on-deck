@@ -8,4 +8,3 @@ add script found in ~/bin called "Resilio-Sync" to steam
 
 profit?
 
-TODO: try not to "steal" binaries
