@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 mkdir -p ~/bin
 mkdir -p ~/.config/resilio-sync/storage/
 #cd ~/
