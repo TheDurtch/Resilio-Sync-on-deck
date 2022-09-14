@@ -7,3 +7,5 @@ Open Konsole and run "chmod +x install-resilio-sync.sh" in the same folder as th
 add script found in ~/bin called "Resilio-Sync" to steam
 
 profit?
+
+TODO: try not to "steal" binaries
